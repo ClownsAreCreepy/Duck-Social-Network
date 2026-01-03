@@ -1,1 +1,1 @@
-##Actual project is in src/main/java/scs/
+## Actual project is in src/main/java/scs/
